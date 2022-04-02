@@ -1,0 +1,74 @@
+body{
+    margin: 0cms;
+    font-family: 'Noto Sans', sans-serif;
+    
+}
+
+
+.center{
+text-align: center
+}
+
+.logo{
+    height: 70px;
+}
+
+
+
+
+
+.cover{
+
+height: 400px;
+color: white;
+background-image:url("https://images.unsplash.com/photo-1523381294911-8d3cead13475?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80");
+background-size:cover ;
+background-position: center;
+background-color: rgba(0, 0, 0, 0.5);
+background-blend-mode: darken;
+}
+
+.cover2{
+    height: 400px;
+    color: white;
+    background-image:url("https://cdn.glitch.global/4ba3c1f3-7ed1-4936-85ad-a11e6d776ec5/rsz_armen-aydinyan-xj_hfnpjg0w-unsplash.jpg?v=1645147653624");
+    background-size:cover ;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;  
+}
+
+.card{
+
+
+    border: 0 !important;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.cover-small{
+
+    height: 200px;
+    background-blend-mode: normal;
+}
+
+.card-title{
+  
+    height: 3rem;
+}
+
+.card-text{
+    height: 10rem;
+}
+
+.stripe-container{
+
+
+    display: flex;
+
+}
+
+.stripe-container{
+    width: 300px;
+    flex-shrink: 0;
+    margin-right: 1rem;
+}

@@ -1,0 +1,98 @@
+body{
+    margin: 0cms;
+    font-family: 'Noto Sans', sans-serif;
+    
+}
+
+
+
+.cover{
+
+height: 400px;
+color: white;
+background-image:url("https://cdn.glitch.global/4ba3c1f3-7ed1-4936-85ad-a11e6d776ec5/pexels-aksonsat-uanthoeng-1078850.jpg?v=1645662764333");
+background-size:cover ;
+background-position: center;
+background-color: rgba(0, 0, 0, 0.5);
+background-blend-mode: darken;
+}
+
+
+.input{
+    width: 50%
+    
+}
+
+.titulo{
+    padding-top: 0px;
+    padding-left: 385px;
+
+}
+h2{
+    padding-top: 20px;
+    padding-left: 70px;
+    font-family: 'Noto Sans', sans-serif;
+
+}
+h4{
+    padding-top: 10px;
+    padding-left: 20px; 
+   
+}
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body{
+      padding: 0px;
+      margin: 0px;
+      border:none;
+      width: 100%;
+      
+  }
+  
+  #header{
+      width: 100%;
+      padding: 0px;
+      margin: 0px;
+      overflow:hidden;
+  }
+  
+  #footer{
+      position: fixed;
+      bottom:0;
+      left:0;
+      width: 100%;
+     
+      padding-top: 100px;
+      margin: 0px;
+      overflow:hidden;
+  }
+  
+  #formulario{
+      margin: 0 auto;
+      text-align: center;
+      
+      border-top-left-radius: 50px;
+    
+      border-radius: 50px;
+      border: 1px solid black;
+      width: 500px;
+      
+  }
+
+  .Info{
+    padding-left: 20px;
+          
+}
+
+.logo{
+    height: 70px;
+}
+
+
+

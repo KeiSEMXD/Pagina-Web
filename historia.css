@@ -1,0 +1,37 @@
+body{
+    margin: 0cms;
+    font-family: 'Noto Sans', sans-serif;
+    
+}
+
+
+
+.cover{
+    height: 400px;
+    color: white;
+    background-image:url("https://cdn.glitch.global/4ba3c1f3-7ed1-4936-85ad-a11e6d776ec5/rsz_armen-aydinyan-xj_hfnpjg0w-unsplash.jpg?v=1645147653624");
+    background-size:cover ;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;  
+}
+
+
+.cover-small{
+
+    height: 200px;
+    background-blend-mode: normal;
+}
+
+.card-title{
+  
+    height: 3rem;
+}
+
+.card-text{
+    height: 10rem;
+}
+
+.logo{
+    height: 70px;
+}
